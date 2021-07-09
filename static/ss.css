@@ -1,0 +1,6 @@
+.dropdown:focus .drop-content{
+    display: block;
+}
+.dropdown:hover .drop-content{
+    display: block;
+}

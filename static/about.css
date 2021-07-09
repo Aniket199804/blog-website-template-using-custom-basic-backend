@@ -1,0 +1,9 @@
+.subsec1 h3{
+    
+    font-size: 65px;
+    margin: 0px 170px;
+}
+.subsec1{
+    flex-direction: row;
+    align-items: center;
+}
